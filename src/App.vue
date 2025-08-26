@@ -11,11 +11,11 @@
 
 <script setup>
 import { ref } from 'vue'
-import GoogleTranslate from './components/GoogleTranslate.vue'
-import HeaderNav from './components/HeaderNav.vue'
-import CategorySelector from './components/CategorySelector.vue'
-import VideoList from './components/VideoList.vue'
-import FooterSection from './components/FooterSection.vue'
+import GoogleTranslate from '@/components/GoogleTranslate.vue'
+import HeaderNav from '@/components/HeaderNav.vue'
+import CategorySelector from '@/components/CategorySelector.vue'
+import VideoList from '@/components/VideoList.vue'
+import FooterSection from '@/components/FooterSection.vue'
 
 // 這裡定義分類
 const categories = [
