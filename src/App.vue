@@ -35,15 +35,15 @@ const categories = [
 // 用簡化的影片資料，完整的你可以補充
 const videos = {
   Jiangshi: [
-    { title: '鬼新娘', src: '鬼新娘.mp4' },
-    { title: '殭屍先生', src: '殭屍先生.mp4' },
+    { title: '鬼新娘', src: './videos/鬼新娘.mp4' },
+    { title: '殭屍先生', src: './videos/殭屍先生.mp4' },
   ],
   Armor_Hero: [
-    { title: '光的戰役-女聲版', src: '光的戰役.mp4' },
-    { title: '光的戰役', src: '光的戰役鋼琴版.mp4' },
+    { title: '光的戰役-女聲版', src: './videos/光的戰役.mp4' },
+    { title: '光的戰役', src: './videos/光的戰役鋼琴版.mp4' },
   ],
   Ultraman: [
-    { title: 'ウルトラマンの歌', src: 'ウルトラマンの歌.mp4' },
+    { title: 'ウルトラマンの歌', src: './videos/ウルトラマンの歌.mp4' },
   ],
   // 其他分類依此類推
 }
