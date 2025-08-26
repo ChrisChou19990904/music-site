@@ -38,12 +38,23 @@ const videos = {
     { title: '鬼新娘', src: '/videos/鬼新娘.mp4' },
     { title: '殭屍先生', src: '/videos/殭屍先生.mp4' },
     { title: '殭屍先生-整蠱', src: '/videos/殭屍先生-整蠱.mp4' },
+    { title: '殭屍復活II', src: '/videos/殭屍復活II.mp4' },
+    { title: '一眉道人', src: '/videos/一眉道人鋼琴版.mp4' },
+    { title: '百鬼霧林', src: '/videos/百鬼霧林.mp4' },
   ],
   Armor_Hero: [
     { title: '光的戰役-女聲版', src: '/videos/光的戰役.mp4' },
     { title: '光的戰役', src: '/videos/光的戰役鋼琴版.mp4' },
+    { title: '戰鬥通往勝利', src: '/videos/戰鬥-通往勝利-鋼琴版.mp4' },
+    { title: '查理九世', src: '/videos/查理九世鋼琴版.mp4' },
+    { title: '淡淡的愛意', src: '/videos/淡淡的愛意_實體鋼琴.mp4' },
+    { title: '帝皇再臨', src: '/videos/帝皇再臨鋼琴版.mp4' },
+    { title: '帝皇再臨-治癒版', src: '/videos/帝皇再臨實體鋼琴版.mp4' },
+    { title: '不敗的英雄', src: '/videos/不敗的英雄.mp4' },
+    { title: 'Just KO', src: '/videos/Just K.O .mp4' },
   ],
   Ultraman: [
+    { title: 'ウルトラマンの歌', src: 'assets/videos/ウルトラマンの歌.mp4' },
     { title: 'ウルトラマンの歌', src: 'assets/videos/ウルトラマンの歌.mp4' },
   ],
   // 其他分類依此類推
