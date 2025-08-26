@@ -93,7 +93,25 @@ const videos = {
   Anime: [
     { title: '好想大聲說喜歡你', src: '/videos/君が好きだと叫びたい.mp4' },
     { title: '穿越時空的思念', src: '/videos/穿越時空的思念.mp4' },
-    { title: 'タッチ', src: '/videos/タッチ.mp4' },
+    { title: '幻化成風', src: '/videos/幻化成風.mp4' },
+  ],
+  Advertisement: [
+    { title: '感冒用斯斯', src: '/videos/感冒用斯斯.mp4' },
+    { title: '益可膚', src: '/videos/益可膚.mp4' },
+    { title: '綠油精', src: '/videos/綠油精.mp4' },
+  ],
+  alarm_song: [
+    { title: '收酒矸', src: '/videos/資源回收車音樂.mp4' },
+    { title: '三星Galaxy 鈴聲 - 歸來', src: '/videos/samsung_galaxy_alarm_homecoming.mp4' },
+    { title: '中華民國軍樂-下課號', src: '/videos/中華民國軍樂_下課號.mp4' },
+    { title: '全家便利商店新鈴聲', src: '/videos/全家便利商店新鈴聲.mp4' },
+  ],
+  tiktok_music: [
+    { title: 'River Flows In You', src: '/videos/River_Flows_In_You.mp4' },
+    { title: '一笑江湖', src: '/videos/一笑江湖.mp4' },
+  ],
+  game_music: [
+    { title: '夜幕下的旅途', src: '/videos/夜幕下的旅途.mp4' },
   ],
 }
 
