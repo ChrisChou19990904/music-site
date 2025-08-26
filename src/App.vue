@@ -54,10 +54,47 @@ const videos = {
     { title: 'Just KO', src: '/videos/Just K.O .mp4' },
   ],
   Ultraman: [
-    { title: 'ウルトラマンの歌', src: 'assets/videos/ウルトラマンの歌.mp4' },
-    { title: 'ウルトラマンの歌', src: 'assets/videos/ウルトラマンの歌.mp4' },
+    { title: 'ウルトラマンの歌', src: '/videos/ウルトラマンの歌.mp4' },
+    { title: '遊星から来た兄弟　勝利', src: '/videos/勝利.mp4' },
+    { title: 'ウルトラセブンの歌', src: '/videos/ウルトラセブンの歌.mp4' },
+    { title: '帰ってきたウルトラマンの歌', src: '/videos/帰ってきたウルトラマンの歌.mp4' },
+    { title: 'ウルトラマンエースの歌', src: '/videos/ultraman_ace.mp4' },
+    { title: 'ウルトラマンタロウの歌', src: '/videos/ウルトラマンタロウ.mp4' },
+    { title: 'ウルトラマンレオの歌', src: '/videos/ウルトラマンレオの歌.mp4' },
+    { title: 'Take Me Higher', src: '/videos/Take Me Higher.mp4' },
+    { title: '奇蹟再現', src: '/videos/奇蹟再現鋼琴版.mp4' },
+    { title: 'Love Theme from Tiga', src: '/videos/Love_Theme_From_Tiga.mp4' },
+    { title: 'light of Humanity', src: '/videos/light_of_humanity.mp4' },
+    { title: '光を継ぐもの', src: '/videos/光を継ぐもの.mp4' },
+    { title: '君だけを守りたい', src: '/videos/君だけを守りたいーピアノ.mp4' },
+    { title: 'Theme of Ultraman Gaia Fighting', src: '/videos/超人力霸王蓋亞至高戰鬥曲.mp4' },
+    { title: 'Spirit', src: '/videos/spirit_perfectpiano.mp4' },
+    { title: 'Something You Can Do', src: '/videos/Something_You_Can_Do.mp4' },
+    { title: 'Eiyuu', src: '/videos/eiyuu.mp4' },
+    { title: 'ウルトラマンメビウスの歌', src: '/videos/ultraman_mebius_op.mp4' },
+    { title: 'ジードの証', src: '/videos/ジードの証.mp4' },
+
   ],
   // 其他分類依此類推
+  Super_Sentai: [
+    { title: '響の調べ', src: '/videos/Hibiki_No_Shirabe.mp4' },
+    { title: 'ハリケンジャー参上', src: '/videos/ハリケンジャー参上.mp4' },
+    { title: '幸せShaking Hands', src: '/videos/幸せShaking_Hands.mp4' },
+    { title: '影となりて悪を討つ', src: '/videos/影となりて悪をうつ.mp4' },
+  ],
+  Kamen_Rider: [
+    { title: '仮面ライダークウガ', src: '/videos/仮面ライダークウガ.mp4' },
+    { title: 'Alive A Life', src: '/videos/Alive_A_Life.mp4' },
+  ],
+  Other_Tokusatsu: [
+    { title: 'Life Goes On', src: '/videos/life-goes-on.mp4' },
+    { title: '魔弾戦記リュウケンドー', src: '/videos/ryukendo_piano.mp4' },
+  ],
+  Anime: [
+    { title: '好想大聲說喜歡你', src: '/videos/君が好きだと叫びたい.mp4' },
+    { title: '穿越時空的思念', src: '/videos/穿越時空的思念.mp4' },
+    { title: 'タッチ', src: '/videos/タッチ.mp4' },
+  ],
 }
 
 const selectedCategory = ref('')
