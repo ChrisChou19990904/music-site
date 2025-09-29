@@ -68,6 +68,7 @@ const videos = {
     { title: '光を継ぐもの', src: '/music-site/videos/光を継ぐもの.mp4' },
     { title: '君だけを守りたい', src: '/music-site/videos/君だけを守りたいーピアノ.mp4' },
     { title: 'Theme of Ultraman Gaia Fighting', src: '/music-site/videos/超人力霸王蓋亞至高戰鬥曲.mp4' },
+    { title: '悲傷的沼澤', src:'/music-site/videos/悲傷的沼澤.mp4' },
     { title: 'Spirit', src: '/music-site/videos/spirit_perfectpiano.mp4' },
     { title: 'Something You Can Do', src: '/music-site/videos/Something_You_Can_Do.mp4' },
     { title: 'Eiyuu', src: '/music-site/videos/eiyuu.mp4' },
