@@ -126,12 +126,13 @@ const videos = {
   ],
   alarm_song: [
     { title: '收酒矸', src: '/music-site/videos/資源回收車音樂.mp4' },
-    { title: '三星Galaxy 鈴聲 - 歸來', src: '/music-site/videos/samsung_galaxy_alarm_homecoming.mp4' },
+    { title: '三星Galaxy 鈴聲 - 歸來', src: '/music-site/videos/homecoming.mp4' },
     { title: '中華民國軍樂-下課號', src: '/music-site/videos/中華民國軍樂_下課號.mp4' },
     { title: '全家便利商店新鈴聲', src: '/music-site/videos/全家便利商店新鈴聲.mp4' },
   ],
   tiktok_music: [
     { title: 'River Flows In You', src: '/music-site/videos/River_Flows_In_You.mp4' },
+    { title: 'Way Back Home', src: '/music-site/videos/way_back_home.mp4' },
     { title: '一笑江湖', src: '/music-site/videos/一笑江湖.mp4' },
   ],
   game_music: [
