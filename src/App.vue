@@ -51,6 +51,7 @@ const categories = [
   { id: 'alarm_song', name: '系統提示配樂' },
   { id: 'tiktok_music', name: '抖音神曲' },
   { id: 'game_music', name: '電玩配樂' },
+  { id: 'nursery_rhyme', name: '兒歌' },
 ]
 
 // 用簡化的影nn片資料，完整的你可以補充
@@ -137,6 +138,9 @@ const videos = {
   ],
   game_music: [
     { title: '夜幕下的旅途', src: '/music-site/videos/夜幕下的旅途.mp4' },
+  ],
+  nursery_rhyme: [
+    { title: '我愛鄉村', src: '/music-site/videos/我愛鄉村.mp4' },
   ],
 }
 
