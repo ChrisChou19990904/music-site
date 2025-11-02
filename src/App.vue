@@ -66,7 +66,7 @@ const videos = {
     { title: '帰ってきたウルトラマンの歌', src: '/music-site/videos/帰ってきたウルトラマンの歌.mp4' },
     { title: 'ウルトラマンエースの歌', src: '/music-site/videos/ultraman_ace.mp4' },
     { title: 'ウルトラマンタロウの歌', src: '/music-site/videos/ウルトラマンタロウ.mp4' },
-    { title: 'ウルトラマンレオの歌', src: '/music-site/videos/ウルトラマンレオの歌.mp4' },
+    { title: 'ウルトラマンレオの歌', src: '/music-site/videos/ultraman_leo.mp4' },
     { title: 'Take Me Higher', src: '/music-site/videos/Take Me  Higher.mp4' },
     { title: '奇蹟再現', src: '/music-site/videos/奇蹟再現鋼琴版.mp4' },
     { title: 'Love Theme from Tiga', src: '/music-site/videos/Love_Theme_From_Tiga.mp4' },
@@ -79,6 +79,7 @@ const videos = {
     { title: 'Something You Can Do', src: '/music-site/videos/Something_You_Can_Do.mp4' },
     { title: 'Eiyuu', src: '/music-site/videos/eiyuu.mp4' },
     { title: 'ウルトラマンメビウスの歌', src: '/music-site/videos/ultraman_mebius_op.mp4' },
+    { title: 'ウルトラの奇跡', src: '/music-site/videos/ウルトラの奇跡.mp4' },
     { title: 'ジードの証', src: '/music-site/videos/ジードの証.mp4' },
 
   ],
@@ -99,7 +100,8 @@ const videos = {
   ],
   Anime: [
     { title: '好想大聲說喜歡你', src: '/music-site/videos/君が好きだと叫びたい.mp4' },
-    { title: '穿越時空的思念', src: '/music-site/videos/穿越時空的思念.mp4' },
+    { title: '穿越時空的思念', src: '/music-site/videos/穿越時空的思念降B大調實體鋼琴演奏.mp4' },
+    { title: '哀歌', src: '/music-site/videos/elegy.mp4' },
     { title: '幻化成風', src: '/music-site/videos/幻化成風.mp4' },
   ],
   Advertisement: [
