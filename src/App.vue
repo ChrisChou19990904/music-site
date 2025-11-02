@@ -51,7 +51,7 @@ const videos = {
   Armor_Hero: [
     { title: '光的戰役-女聲版', src: '/music-site/videos/光的戰役.mp4' },
     { title: '光的戰役', src: '/music-site/videos/光的戰役鋼琴版.mp4' },
-    { title: '戰鬥通往勝利', src: '/music-site/videos/戰鬥-通往勝利-鋼琴版.mp4' },
+    { title: '戰鬥通往勝利', src: '/music-site/videos/戰鬥-通往勝利.mp4' },
     { title: '查理九世', src: '/music-site/videos/查理九世鋼琴版.mp4' },
     { title: '淡淡的愛意', src: '/music-site/videos/淡淡的愛意_實體鋼琴.mp4' },
     { title: '帝皇再臨', src: '/music-site/videos/帝皇再臨A大調實體鋼琴演奏.mp4' },
