@@ -96,7 +96,7 @@ const videos = {
   ],
   Other_Tokusatsu: [
     { title: 'Life Goes On', src: '/music-site/videos/life-goes-on.mp4' },
-    { title: '魔弾戦記リュウケンドー', src: '/music-site/videos/ryukendo_piano.mp4' },
+    { title: '魔弾戦記リュウケンドー', src: '/music-site/videos/madan_senki_ryukendo.mp4' },
   ],
   Anime: [
     { title: '好想大聲說喜歡你', src: '/music-site/videos/君が好きだと叫びたい.mp4' },
