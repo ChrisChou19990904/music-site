@@ -3,12 +3,27 @@
     <GoogleTranslate />
     <HeaderNav />
     <h1>🎶 演奏曲目分類（融合Marimba Real、Perfect Piano，以及實體鋼琴彈奏的曲目）</h1>
+    <p>我的業餘愛好是彈奏樂器，因此我的期末報告主題是整理並展示我用實體鋼琴以及Marimba Real、Perfect Piano等應用程式彈奏的多種旋律的分類，包括各類影視劇、動畫、廣告的主題曲、片尾曲、插曲等。原本規劃開發 Chrome 擴充功能，但遇到技術瓶頸，所以最後改用純前端網站實現。</p>
+    <p>技術選擇上，我使用了 Vue 框架搭配 Vite 工具，讓開發更快速且有良好的組件化架構。專案分為多個元件，包括選單、影片清單、Google 翻譯、作者簡介等，方便維護與擴充。</p>
+    <p>主要功能有分類下拉選單可以切換曲目，並且能直接播放影片；同時也集成 Google 翻譯，方便不同語言使用者瀏覽；頁面還有響應式設計，兼容手機與桌機。</p>
+    想看更詳細的說明請點入下方連結：<br>
+    <a href="https://www.notion.so/Vue-js-25ba17d2741180e68a25d0ed7097f209" target="_blank">用 Vue.js 製作一個演奏曲目分類的靜態網站</a>
     <CategorySelector :categories="categories" @categorySelected="selectCategory" />
     <VideoList :videos="videos" :selectedCategory="selectedCategory" />
     <FooterSection />
   </div>
 </template>
 <style>
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+
+}
+a:visited{
+  color: blue;
+}
 @media (max-width: 768px) {
   video{
     max-width: 100%;
