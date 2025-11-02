@@ -48,7 +48,7 @@ const videos = {
     { title: '戰鬥通往勝利', src: '/music-site/videos/戰鬥-通往勝利-鋼琴版.mp4' },
     { title: '查理九世', src: '/music-site/videos/查理九世鋼琴版.mp4' },
     { title: '淡淡的愛意', src: '/music-site/videos/淡淡的愛意_實體鋼琴.mp4' },
-    { title: '帝皇再臨', src: '/music-site/videos/帝皇再臨鋼琴版.mp4' },
+    { title: '帝皇再臨', src: '/music-site/videos/帝皇再臨A大調實體鋼琴演奏.mp4' },
     { title: '帝皇再臨-治癒版', src: '/music-site/videos/帝皇再臨實體鋼琴版.mp4' },
     { title: '不敗的英雄', src: '/music-site/videos/不敗的英雄.mp4' },
     { title: 'Just KO', src: '/music-site/videos/Just-K.O .mp4' },
