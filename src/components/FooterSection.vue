@@ -40,8 +40,7 @@ img {
   }
 
   img {
-    width: 300px; /* 小螢幕時縮小圖片 */
-    height: 400px;
+    max-width: 100% /* 小螢幕時縮小圖片 */
   }
 
   p {

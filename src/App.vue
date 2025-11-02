@@ -8,7 +8,13 @@
     <FooterSection />
   </div>
 </template>
-
+<style>
+@media (max-width: 768px) {
+  video{
+    max-width: 100%;
+  }
+}
+</style>
 <script setup>
 import { ref } from 'vue'
 import GoogleTranslate from '@/components/GoogleTranslate.vue'
