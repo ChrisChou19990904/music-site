@@ -35,6 +35,7 @@
       <img src="/src/components/my_appearance2.jpg" alt="自拍" />
     </footer>
   </div>
+
 </template>
 
 <script>
