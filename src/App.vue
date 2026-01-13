@@ -109,6 +109,7 @@ const videos = {
   Kamen_Rider: [
     { title: '仮面ライダークウガ', src: '/music-site/videos/仮面ライダークウガ.mp4' },
     { title: 'Alive A Life', src: '/music-site/videos/Alive_A_Life.mp4' },
+    { title: 'Be The One', src: '/music-site/videos/be_the_one.mp4' },
   ],
   Other_Tokusatsu: [
     { title: 'Life Goes On', src: '/music-site/videos/life-goes-on.mp4' },
@@ -119,6 +120,7 @@ const videos = {
     { title: '穿越時空的思念', src: '/music-site/videos/穿越時空的思念降B大調實體鋼琴演奏.mp4' },
     { title: '哀歌', src: '/music-site/videos/elegy.mp4' },
     { title: '幻化成風', src: '/music-site/videos/幻化成風.mp4' },
+    { title: '漸漸被你吸引', src: '/music-site/videos/dragon_ball_gt.mp4' },
   ],
   Advertisement: [
     { title: '感冒用斯斯', src: '/music-site/videos/感冒用斯斯.mp4' },
