@@ -30,7 +30,7 @@
       <br />
       創作日期：2025/08/26
       <br />
-      最近更新日期：2025/11/03
+      最近更新日期：2026/01/13
       <br />
       <img src="/src/components/my_appearance2.jpg" alt="自拍" />
     </footer>
