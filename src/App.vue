@@ -96,7 +96,7 @@ const videos = {
     { title: 'Eiyuu', src: '/music-site/videos/eiyuu.mp4' },
     { title: 'ウルトラマンメビウスの歌', src: '/music-site/videos/ultraman_mebius_op.mp4' },
     { title: 'ウルトラの奇跡', src: '/music-site/videos/ウルトラの奇跡.mp4' },
-    { title: 'ジードの証', src: '/music-site/videos/ジードの証.mp4' },
+    { title: 'ジードの証', src: '/music-site/videos/geed_no_akashi.mp4' },
 
   ],
   // 其他分類依此類推
