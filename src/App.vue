@@ -109,6 +109,7 @@ const videos = {
   Kamen_Rider: [
     { title: '仮面ライダークウガ', src: '/music-site/videos/仮面ライダークウガ.mp4' },
     { title: 'Alive A Life', src: '/music-site/videos/Alive_A_Life.mp4' },
+    { title: 'Justifaiz', src: '/music-site/videos/justifaiz.mp4' },
     { title: 'Be The One', src: '/music-site/videos/be_the_one.mp4' },
   ],
   Other_Tokusatsu: [
